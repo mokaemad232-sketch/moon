@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moon-2i2.pages.dev/sitemap.xml
